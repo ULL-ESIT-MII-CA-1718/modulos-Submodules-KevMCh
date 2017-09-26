@@ -1,0 +1,6 @@
+[submodule "modulos-KevMCh"]
+	path = modulos-KevMCh
+	url = https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh.git
+[submodule "modulos-KevMCh-Client"]
+	path = modulos-KevMCh-Client
+	url = https://github.com/ULL-ESIT-MII-CA-1718/modulos-KevMCh-Client.git
